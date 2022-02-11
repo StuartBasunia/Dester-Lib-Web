@@ -9,7 +9,7 @@ REACT_APP_AUTH0_CLIENT_ID= <br>
 
 ## Deployment on Vercel
 
-### env variables
+### env variable
 
 CI=false <br>
 REACT_APP_BACKEND= <br>
